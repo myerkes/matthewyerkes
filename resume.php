@@ -32,18 +32,15 @@
 
     <body>
         <div>
-            <h1>Hi, I'm Matt Yerkes! Welcome to my portfolio.</h1>
-            <h2>Come back soon for more information.</h2>
+            <h1>Resume</h1>
 
-            <ul>
-                <li><a href="about_me.html">About Me</a></li>
-                <li><a href="resume.html">Resume</a></li>
-                <li><a href="https://github.com/myerkes" target="_blank">GitHub</a></li>
-                <li><a href="https://www.linkedin.com/in/matthewyerkes/" target="_blank">LinkedIn</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
+            <?php include 'templates/navigation.php'; ?>
         </div>
 
+        
+        <embed src="Matt Yerkes Resume.pdf" width="100%" height="2100px" />
+
+        <?php include 'templates/footer.php'; ?>
     </body>
 
 </html>

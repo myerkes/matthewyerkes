@@ -14,7 +14,8 @@
     </head>
 
     <body>
-        <?php include('header.php');?>
+        <h1>Contact</h1>
+        <?php include 'templates/navigation.php'; ?>
         <ul>
             <li>Email - mattyerkes23@gmail.com</li>
         </ul>

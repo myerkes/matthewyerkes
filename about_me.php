@@ -15,6 +15,8 @@
     </head>
 
     <body>
+        <h1>About Me</h1>
+        <?php include 'templates/navigation.php'; ?>
         <h2>I'm a mechanical engineer currently employed at Procter & Gamble.</h2>
         <h2>I'm a Senior Manager in our Materials, Process, and Delivery group.</h2>
 
