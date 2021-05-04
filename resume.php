@@ -2,43 +2,25 @@
 <html lang="en">
     <head>
         <link href="/normalize.css" rel="stylesheet">
+        <link href="/styles.css" rel="stylesheet">
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>homepage</title>
+        <title>Resume</title>
 
         <script>
         </script>
-
-        <style>
-            header {
-                text-align: center;
-            }
-            div {
-                background-color: #7aa6ec;
-            }
-            body {
-                text-align: center;
-            }
-            ul {
-                padding: 10px;
-            }
-            li {
-                display: inline;
-                padding: 0px 10px 0px 10px;
-            }
-        </style>
     </head>
 
     <body>
-        <div>
+        <header>
             <h1>Resume</h1>
 
             <?php include 'templates/navigation.php'; ?>
-        </div>
+        </header>
 
         
-        <embed src="Matt Yerkes Resume.pdf" width="100%" height="2100px" />
+        <embed src="Matt Yerkes Resume.pdf" width="100%" height = "1500px"/>
 
         <?php include 'templates/footer.php'; ?>
     </body>
