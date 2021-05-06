@@ -2,12 +2,15 @@ header {
     margin: 0;
     padding: 10px;
     text-align: center;
-    background-color: #7aa6ec;
+    background-color: #24a188;
+    color: #FDF5E6;
 }
 body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-image: url("images/white_background.png");
+    background-repeat: repeat;
 }
 ul {
     padding: 10px;
@@ -15,4 +18,16 @@ ul {
 li {
     display: inline;
     padding: 0px 10px 0px 10px;
+}
+a:link {
+    color: #DFD8CA;
+}
+a:visited {
+    color: #DFD8CA;
+}
+a:hover {
+    color: #817E77;
+}
+a:active {
+    color: #DFD8CA;
 }

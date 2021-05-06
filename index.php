@@ -14,7 +14,7 @@
 
     <body>
         <header>
-            <h1>Hi, I'm Matt Yerkes! Welcome to my portfolio.</h1>
+            <h1>Hi, I'm Matt Yerkes! Welcome to my portfolio</h1>
             <?php include 'templates/navigation.php'; ?>
         </header>
 
