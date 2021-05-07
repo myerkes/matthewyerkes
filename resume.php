@@ -14,13 +14,11 @@
 
     <body>
         <header>
-            <h1>Resume</h1>
-
             <?php include 'templates/navigation.php'; ?>
         </header>
 
         
-        <embed src="Matt Yerkes Resume.pdf" width="100%" height = "1500px"/>
+        <embed src="Matt Yerkes Resume.pdf" width="90%" height = "1500px"/>
 
         <?php include 'templates/footer.php'; ?>
     </body>

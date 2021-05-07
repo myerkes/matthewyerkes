@@ -14,10 +14,10 @@
 
     <body>
         <header>
-            <h1>Hi, I'm Matt Yerkes! Welcome to my portfolio</h1>
             <?php include 'templates/navigation.php'; ?>
         </header>
-
+        
+        <h1>Hi, I'm Matt Yerkes! Welcome to my portfolio.</h1>
         <h2>Come back soon for more information.</h2>
 
         <?php include 'templates/footer.php'; ?>
